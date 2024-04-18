@@ -76,7 +76,7 @@ Tari Universe displays tapplets using `<iframe>` which make very simple to displ
 ## UX of enabling developer mode
 
 This feature should be somewhere at the bottom of settings where casual users won't notice as much.
-After enabling it, in the tapplet list there should popup new button that reads "Upload tapplet" and after clicking it users can specify folder containing valid tapplet structure. This new tapplet should be displayed on the list available tapplets with a icon indicating that it's locally imported one.
+After enabling it, in the tapplet list there should popup new button that reads "Connect tapplet in dev mode" and after clicking it users can specify network address. This new tapplet should be displayed on the list available tapplets with a icon indicating that it's locally imported one.
 
 # References
 
